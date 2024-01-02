@@ -7,3 +7,4 @@ Please follow the following order to understand the tutorials better:
 3. GIT_Commits
 4. Commands
 5. GIT_Rewrite
+6. Outro
