@@ -8,3 +8,4 @@ Please follow the following order to understand the tutorials better:
 4. Commands
 5. GIT_Rewrite
 6. Outro
+7. FINAL ASSESMENT & QUIZ
